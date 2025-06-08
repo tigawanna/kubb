@@ -1,5 +1,46 @@
 # @kubb/plugin-solid-query
 
+## 3.10.15
+
+### Patch Changes
+
+- Updated dependencies [[`db73926`](https://github.com/kubb-labs/kubb/commit/db73926f46739e598244bedc52f466591b2d7320)]:
+  - @kubb/plugin-ts@3.10.15
+  - @kubb/plugin-client@3.10.15
+  - @kubb/plugin-zod@3.10.15
+  - @kubb/core@3.10.15
+  - @kubb/oas@3.10.15
+  - @kubb/plugin-oas@3.10.15
+  - @kubb/react@3.10.15
+
+## 3.10.14
+
+### Patch Changes
+
+- Updated dependencies [[`17ebfce`](https://github.com/kubb-labs/kubb/commit/17ebfce849874784aa0625310eae17c8574528b3)]:
+  - @kubb/plugin-ts@3.10.14
+  - @kubb/plugin-client@3.10.14
+  - @kubb/plugin-zod@3.10.14
+  - @kubb/core@3.10.14
+  - @kubb/oas@3.10.14
+  - @kubb/plugin-oas@3.10.14
+  - @kubb/react@3.10.14
+
+## 3.10.13
+
+### Patch Changes
+
+- [#1733](https://github.com/kubb-labs/kubb/pull/1733) [`a9a1f12`](https://github.com/kubb-labs/kubb/commit/a9a1f1276d3dd4f3afc39d024b1a8a91fd94607b) Thanks [@hugoFelippe](https://github.com/hugoFelippe)! - Fix Cannot mutate a Store directly
+
+- Updated dependencies []:
+  - @kubb/core@3.10.13
+  - @kubb/oas@3.10.13
+  - @kubb/plugin-client@3.10.13
+  - @kubb/plugin-oas@3.10.13
+  - @kubb/plugin-ts@3.10.13
+  - @kubb/plugin-zod@3.10.13
+  - @kubb/react@3.10.13
+
 ## 3.10.12
 
 ### Patch Changes

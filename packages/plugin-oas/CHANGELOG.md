@@ -1,5 +1,32 @@
 # @kubb/swagger
 
+## 3.10.15
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @kubb/core@3.10.15
+  - @kubb/oas@3.10.15
+  - @kubb/react@3.10.15
+
+## 3.10.14
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @kubb/core@3.10.14
+  - @kubb/oas@3.10.14
+  - @kubb/react@3.10.14
+
+## 3.10.13
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @kubb/core@3.10.13
+  - @kubb/oas@3.10.13
+  - @kubb/react@3.10.13
+
 ## 3.10.12
 
 ### Patch Changes
